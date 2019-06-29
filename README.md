@@ -5,4 +5,4 @@ The firefly manual was assembled from multiple sources around the Internet at th
 
 [Download the firefly manual](https://raw.github.com/neo-aeon/firefly-manual/master/firefly%20manual.pdf)
 
-![Preview](firefly%20manual%20preview.png)
+[![Preview](firefly%20manual%20preview.png)](firefly%20manual.pdf)
